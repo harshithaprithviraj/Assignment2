@@ -1,0 +1,10 @@
+C:\Users\harsh\Desktop\SENG8040Software Methodologies\Assignment2\TriangleTest\bin\Debug\TriangleTest.dll
+C:\Users\harsh\Desktop\SENG8040Software Methodologies\Assignment2\TriangleTest\bin\Debug\TriangleTest.pdb
+C:\Users\harsh\Desktop\SENG8040Software Methodologies\Assignment2\TriangleTest\bin\Debug\Assignment2.exe
+C:\Users\harsh\Desktop\SENG8040Software Methodologies\Assignment2\TriangleTest\bin\Debug\nunit.framework.dll
+C:\Users\harsh\Desktop\SENG8040Software Methodologies\Assignment2\TriangleTest\bin\Debug\Assignment2.pdb
+C:\Users\harsh\Desktop\SENG8040Software Methodologies\Assignment2\TriangleTest\bin\Debug\Assignment2.exe.config
+C:\Users\harsh\Desktop\SENG8040Software Methodologies\Assignment2\TriangleTest\bin\Debug\nunit.framework.xml
+C:\Users\harsh\Desktop\SENG8040Software Methodologies\Assignment2\TriangleTest\obj\Debug\TriangleTest.csprojResolveAssemblyReference.cache
+C:\Users\harsh\Desktop\SENG8040Software Methodologies\Assignment2\TriangleTest\obj\Debug\TriangleTest.dll
+C:\Users\harsh\Desktop\SENG8040Software Methodologies\Assignment2\TriangleTest\obj\Debug\TriangleTest.pdb
